@@ -1,1 +1,1 @@
-select myonlinereopsql from table;
+select myonlinereopsql, and localsql from table;
